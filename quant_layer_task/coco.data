@@ -1,0 +1,6 @@
+classes= 80
+train=data/coco/trainvalno5k.txt
+valid=/home/gujicheng/msy/PyTorch-YOLOv3/data/coco/val.txt
+names=/home/gujicheng/msy/PyTorch-YOLOv3/data/coco.names
+backup=backup/
+eval=coco
